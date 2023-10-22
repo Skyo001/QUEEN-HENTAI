@@ -20,7 +20,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['BrunoSobrino']
+global.lolkeysapi = ['Stevo254']
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -52,15 +52,14 @@ global.premium = 'true'
 global.packname = '💝 Whatsapp bot 💝' 
 global.author = '💝 Whatsapp bot 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_mr_unique_hacker\n' 
-global.dygp = 'https://chat.whatsapp.com/H0EaX9ymBJWFpStGtAMsOq'
-global.fgsc = 'https://github.com/dinuwah/NULL' 
-global.fgyt = 'https://chat.whatsapp.com/H0EaX9ymBJWFpStGtAMsOq'
-global.fgpyp = 'https://chat.whatsapp.com/H0EaX9ymBJWFpStGtAMsOq'
+global.dygp = 'https://wa.me/qr/B7VF7BPQISQFH1'
+global.fgsc = 'https://github.com/Skyo001' 
+
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Whatsapp bot💝..._*'
-global.rwait = '🇱🇰'
+global.rwait = '🇰🇪'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
